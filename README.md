@@ -25,3 +25,8 @@ Finally, you will need to generate an access token for the code to access the ca
 Assuming everything is set up properly, all you need to do is run the script. To do so, navigate to wherever the script is saved in your Terminal and run `python3 autocalendar.py`. It should prompt you for your account name and password (if you get tired of typing this in, you could easily hard code this into the script itself, but that's up to you!) and open a window for you to verify your access to Google Calendar via the client API.
 
 (If `python3` doesn't work for you, try `py` or `python`.)
+
+
+#### Disclaimer
+
+This program is provided as-is, with no guarantee of proper functionality or lack of side effects. I made this for fun and to help myself out, and I can't guarantee that it will work flawlessly for anyone else. Use at your own risk!
